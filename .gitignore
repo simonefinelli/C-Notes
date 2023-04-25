@@ -51,4 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-/Beginner/01_HelloWorld/cmake-build-debug/
+# IDE
+.idea
+
+# Folders
+cmake-build-debug/
